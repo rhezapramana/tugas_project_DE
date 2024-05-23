@@ -1,0 +1,7 @@
+RatecodeID,rate_code_id,rate_code_name
+1,0,Standard rate
+3,1,Newark
+2,2,JFK
+5,3,Negotiated fare
+4,4,Nassau or Westchester
+6,5,Group ride
